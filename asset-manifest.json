@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khawarrr/montessori-website.git/static/css/main.8d56d053.css",
+    "main.js": "/khawarrr/montessori-website.git/static/js/main.ecd96ddf.js",
+    "static/js/453.11883677.chunk.js": "/khawarrr/montessori-website.git/static/js/453.11883677.chunk.js",
+    "index.html": "/khawarrr/montessori-website.git/index.html",
+    "main.8d56d053.css.map": "/khawarrr/montessori-website.git/static/css/main.8d56d053.css.map",
+    "main.ecd96ddf.js.map": "/khawarrr/montessori-website.git/static/js/main.ecd96ddf.js.map",
+    "453.11883677.chunk.js.map": "/khawarrr/montessori-website.git/static/js/453.11883677.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d56d053.css",
+    "static/js/main.ecd96ddf.js"
+  ]
+}
